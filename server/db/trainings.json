@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Gym",
+    "durationInMinutes": 60,
+    "image": {
+      "fileName": "gym.jpeg",
+      "authorName": "Mariolh",
+      "authorLink": "https://pixabay.com/users/mariolh-62451/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=567021",
+      "platformName": "Pixabay",
+      "platformLink": "https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=567021"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Yoga",
+    "durationInMinutes": 30,
+    "image": {
+      "fileName": "yoga.png",
+      "authorName": "engin akyurt",
+      "authorLink": "https://unsplash.com/@enginakyurt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText",
+      "platformName": "Unsplash",
+      "platformLink": "https://unsplash.com/"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Pilates",
+    "durationInMinutes": 15,
+    "image": {
+      "fileName": "pilates.jpeg",
+      "authorName": "Monfocus",
+      "authorLink": "https://pixabay.com/users/monfocus-2516394/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5475880",
+      "platformName": "Pixabay",
+      "platformLink": "https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5475880"
+    }
+  }
+]
